@@ -1,0 +1,5 @@
+[16cat - 15num] 31 features:
+	-svm = 77%
+
+[16cat - 1num] 17 features:
+	-svm = 75% 
